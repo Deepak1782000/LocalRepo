@@ -1,5 +1,5 @@
 public class AnotherClass implements ILearningInterface {
     public Integer printNumber(){
-        return 3;	
+        return 6;	
     }
 }
